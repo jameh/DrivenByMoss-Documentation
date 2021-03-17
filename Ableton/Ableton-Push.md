@@ -45,7 +45,7 @@ After you have copied the file reboot your computer.
 * **Select + Solo**: Deactivate all solos
 * **Knobs 1-8** Value encoders, [Shift + Knob] fine increment value change.
 * **Knob 9** - Changes Master Volume
-* **Select + Knob 9** - Changes the Metronome Volume
+* **Shift + Knob 9** - Changes the Metronome Volume
 * Keep the **Master button** pressed for a screen which allows to toggle perspectives and panels.
 * **Stop/Stop Clip** - Press _Shift + Stop_ to stop all playing clips. Keep pressed and press one of the second row buttons to stop the clip on the specific track.
 * **Footswitch 1** - Sends sustain
